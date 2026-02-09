@@ -61,5 +61,4 @@ https://github.com/angular-architects/module-federation-plugin/commit/443b0daa83
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINK
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/yassine-souissi-in/
