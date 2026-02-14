@@ -48,7 +48,7 @@ https://github.com/angular-architects/module-federation-plugin/commit/443b0daa83
 - Docker
 - Kubernetes
 - CI/CD pipelines
-- AWS & cloud-native deployments
+- Azure & cloud-native deployments
 
 ---
 
